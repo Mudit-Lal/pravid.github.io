@@ -741,7 +741,7 @@ body {
 	position: relative;
 	font-size: 12em;
 	font-weight: 900;
-	line-height: 0.3;
+	line-height: 0.00001em;
 	z-index: 1
 }
 
