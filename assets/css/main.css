@@ -101,6 +101,7 @@ dfn {
 
 h1 {
 	font-size: 2em;
+	margin: 0.67em 0;
 }
 
 mark {
@@ -801,7 +802,7 @@ body {
 }
 
 .intro--options>a {
-	max-width: 550px;
+	max-width: 20em;
 	text-decoration: none;
 	color: #282828;
 	-webkit-transition: color .2s ease-in-out;
